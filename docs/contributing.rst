@@ -50,8 +50,9 @@ and instead, ``git rebase`` your branch.
 Additionally, if you are writing a new feature, please ensure you write appropriate
 Boost test cases and place them under ``test/``.
 
-However, if you are making a larger change, please consult with the Gitter
-channel, first.
+However, if you are making a larger change, please consult with the `Solidity Development Gitter channel
+<https://gitter.im/ethereum/solidity-dev>`_ (different from the one mentioned above) first.
+
 
 Finally, please make sure you respect the `coding standards
 <https://raw.githubusercontent.com/ethereum/cpp-ethereum/develop/CodingStandards.txt>`_
